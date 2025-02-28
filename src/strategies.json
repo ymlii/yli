@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Take a break and come back later with a fresh eye!",
+        "description": "Step away when you’re stuck or overwhelmed-taking a break helps clear your mind. Then, come back refreshed, ready to tackle challenges with a new perspective.",
+        "how": "<p> When you worked on a problem for so long, getting stuck and having no clue, feeling so stressful, irritating, maybe even to the point of getting a headache. These are all signs that it’s time to pause and step away. During your break, give yourself the space to relax—take a walk, grab a snack, or do something unrelated to coding. The goal is to let your mind reset. When you come back, you’ll oftenfind yourself seeing the problem more clearly and identifying coping strategies with greater ease. Breaks aren’t a sign offailure—they’re part of the process for productive problem-solving.</p>"
+    }, 
+    {
+        "name": "Re-evaluate the Situation",
+        "description": "",
+        "how": "<p>Make it a habit to pause and re-evaluate your progress at set intervals—say, every 20 minutes. when you feel stuck, overwhelmed, or about to give up, take a step back and look at the bigger picture. Use this time to reflect by asking yourself: <ul><li>What do I want to accomplish in the end? What have I done so far</li><li>Why is this problem happening? What was working and what was not?</li><li>Am I truly running out of solutions, or is there something I haven’t tried?</li><li>Can I adjust what I want to accomplish in the end?</li><li>What resources—like notes, tutorials, or help from others-can I use to move forward</li></ul></p>"
+    },
+    {
+        "name": "Re-frame your struggle",
+        "description": "",
+        "how": "<p>When you feel frustrated, stressed, or overwhelmed, and catch yourself thinking, <em>I’ll never figure this out</em> or <em>I’m not good at this</em>, that’s the moment to pause and re-frame your thoughts. Instead of seeing obstacles as signs of failures, ask yourself: <strong>how might you cultivate and experience this experience in pursuit of your task goals and not assume the worst?</strong></p>"
+    },
+    {
+        "name": "A Mindful Approach: Accepting your Emotions",
+        "description": "",
+        "how": "<p><ul><li>Acknowledge it without judgment - It makes sense that I feel this way. This task is challenging. This is part of learning.</li><li>Why is this problem happening? What was working and what was not?</li><li>Allow it to exist - I’m frustrated right now, but that doesn’t mean I won’t figure this out.I don’t need to fight this feeling. I can be frustrated and still keep going.</li><li>Focus on moving forward - What’s the next small step I can take?</li></ul></p>"
+    },
+    {
+        "name": "Flexibility in Strategies and Goals",
+        "description": "",
+        "how": "<p>If you’ve exhausted multiple strategies and still feel stuck, ask yourself: </br> <ul><li>Am I forcing one specific way of solving this? Can I try a different method£</li><li>Am I too focused on an ideal outcome? Is there another version that still meets the requirements? </li> <li> Can I adjust my goals to fit my current level and available time?</li><li>Would simplifying or modifying certain features help me make progress instead of staying stuck</li></ul></br> There’s usually more than one way to achieve the same goal while still meeting course requirements. It’s also okay to simplify your implementation if necessary. If one feature is causing major roadblocks, consider adjusting it while still fulfilling the homework requirements.You can always come back later, when you have more time, to figure out what wasn’t working.</p>"
+    },
+    {
+        "name": "Orienting and Assessing",
+        "description": "",
+        "how": "<p>Instead of jumping straight into coding, or fighting the error message, take a moment to orient yourself by asking: <ol><li> What knowledge or resources do I need to accomplish what I want to do?</li><li>What knowledge or resources do I already have that would be helpful?</li><li>Where can I look for knowledge or strategies I don't know yet</li></ol></p>"
+    },
+    {
+        "name": "Planning while Staying Flexible",
+        "description": "",
+        "how": "<p>Use this strategy <b>before starting your work, after exploring different ideas, or reassessing your progress.</b> You can use this strategy by thinking about: <ul> <li>What do I ultimately want to accomplishn</li> <li>What do I want to accomplish todayn</li> <li>How should I approach this?</li> <li> How can I adapt my plan as I go? </li> </ul></p>"
+    },
+    {
+        "name": "Understanding the Cause of Your Feelings",
+        "description": "",
+        "how": "<p><ul><li>How do I feel right now?</li> <li>How is this emotion influencing my behaviorY</li> <li>Why do I feel this wayY</li> <li>How should I respond to this emotion?</li> </ul></p>"
+    }
+]
