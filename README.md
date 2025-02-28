@@ -22,4 +22,3 @@ This extension helps students track and practice strategies while coding in VS C
 ## Contributing
 
 ## License
-MIT
